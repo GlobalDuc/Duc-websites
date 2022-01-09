@@ -494,7 +494,8 @@ dl, ol, ul{
         padding-right: 320px;
     }
     .carousel .owl-theme .owl-nav.disabled+.owl-dots{
-        bottom: -54%;
+        bottom: -28%;
+        right: 45%;
     }
     .carousel .item p{
         margin: 20px 20px 40px 20px;
@@ -533,7 +534,8 @@ dl, ol, ul{
         padding: 10px 0;
     }
     .carousel .owl-theme .owl-nav.disabled+.owl-dots{
-        bottom: -52%;
+        bottom: -11%;
+        right: 44%;
     }
     .carousel {
         height: 560px;
@@ -578,8 +580,8 @@ dl, ol, ul{
         padding-right: 0;
     }
     .carousel .owl-theme .owl-nav.disabled+.owl-dots{
-        bottom: -45%;
-        right: 42%;
+        bottom: -30%;
+        right: 41%;
     }
     .carousel {
         height: 490px;
@@ -654,7 +656,7 @@ dl, ol, ul{
         margin: 20px 0 40px; 
     }
     .carousel .owl-theme .owl-nav.disabled+.owl-dots {
-        bottom: -47%;
+        bottom: -19%;
     }
     .munber h4{
         font-size: 1.5em;
@@ -679,6 +681,10 @@ dl, ol, ul{
     .carousel .item p{
         font-size: 13px;
         line-height: 23px;
+    }
+    .carousel .owl-theme .owl-nav.disabled+.owl-dots{
+        bottom: -14%;
+        right: 40%;
     }
     .introduce__top h1{
         font-size:  2.5em;
